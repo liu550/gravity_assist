@@ -1,4 +1,4 @@
 # gravity_assist
 N-body gravity assist simulation.
 
-## Demo: https://youtu.be/BCiavaJEBxQ
+## Demo: https://www.youtube.com/watch?v=4icxuZQtRRw
