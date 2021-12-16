@@ -1,4 +1,10 @@
 # gravity_assist
 N-body gravity assist simulation.
 
-## Demo: https://www.youtube.com/watch?v=4icxuZQtRRw
+## How to use the application
+
+## Initial condition cases
+
+### Kepler orbit - circle
+
+### Kepler orbit - ellipse
