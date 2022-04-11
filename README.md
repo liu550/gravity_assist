@@ -1,5 +1,6 @@
 # gravity_assist
 N-body gravity simulation. Link: https://gravitysimulation-ac648.web.app/
+
 Gravity assist demo video: https://www.youtube.com/watch?v=4icxuZQtRRw
 
 ## How to use the application
