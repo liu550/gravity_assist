@@ -1,5 +1,6 @@
 # gravity_assist
 N-body gravity simulation. Link: https://gravitysimulation-ac648.web.app/
+Gravity assist demo video: https://www.youtube.com/watch?v=4icxuZQtRRw
 
 ## How to use the application
 You can create initial conditions either through selecting a case from the drop down list or adding your own by clicking the "Add" button. 
